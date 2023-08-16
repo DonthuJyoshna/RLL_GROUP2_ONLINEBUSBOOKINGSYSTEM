@@ -1,1 +1,0 @@
-Please bring .angular file physically we have deleted to free up the memory size
